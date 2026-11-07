@@ -78,7 +78,7 @@ cd ~/.claude/mods/dreamstate && claude plugin test .
 
 ## Credits
 
-The Deepen stage adapts a "deeper, not bigger" prompt shared by an engineering manager at Anthropic. The Dream and Tenth Man stages grew out of my own prompting experiments with personalities and semantic anchors.
+The Deepen stage adapts the "deeper version of this task, not a bigger one" prompt from Felix Rieseberg's [How to be more ambitious: A tutorial for humans with models](https://felixrieseberg.com/how-to-be-more-ambitious-a-tutorial-for-humans-with-models/). The Dream and Tenth Man stages grew out of my own prompting experiments with personalities and semantic anchors.
 
 ## License
 
