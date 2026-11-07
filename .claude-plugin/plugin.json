@@ -1,0 +1,1 @@
+{ "name": "restart", "version": "0.1.0", "description": "/restart-claude exits Claude Code and relaunches this same session in the same terminal, and /dreamstate relaunches a new conversation with dreamstate.md in place of the global CLAUDE.md, both through the claude zsh wrapper in claude-restart.zsh" }
